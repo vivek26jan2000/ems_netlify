@@ -42,6 +42,7 @@
     "react-timer-hook": "^3.0.6",
     "sass": "^1.55.0",
     "simplebar-react": "^2.4.3",
+    "staff-employee-leave-management-system": "file:..",
     "sweetalert2": "^11.6.2",
     "yup": "^0.32.11"
   },
