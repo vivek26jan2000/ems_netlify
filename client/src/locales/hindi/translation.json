@@ -1,0 +1,17 @@
+{
+  "Dashboard": "डैशबोर्ड",
+  "Department": "विभाग",
+  "New Department": "नया विभाग",
+  "Department List": "विभाग सूची",
+  "Leave Type": "छुट्टी का प्रकार",
+  "Leave Type List": "प्रकार की सूची छोड़ें",
+  "Employee": "कर्मचारी",
+  "New Employee": "नया कर्मचारी",
+  "Employee List": "कर्मचारी सूची",
+  "Leave": "छुट्टी",
+  "New Leave": "नई छुट्टी",
+  "Leave List": "सूची छोड़ें",
+  "Leave List Pending": "सूची लंबित छोड़ दें",
+  "Leave List Approved": "अवकाश सूची स्वीकृत",
+  "Leave List Rejected": "छुट्टी सूची अस्वीकृत"
+}
